@@ -4,7 +4,7 @@ author: Muhammad Mustafa Monowar
 datecreated: 2021-07-07
 ---
 
-# What is Information System
+# What is Information System?
 
 An Information Systems is a a set of
     - Interrelated components, that
@@ -20,12 +20,27 @@ An Information Systems is a a set of
         - Visualize complex subjects
         - Create new products [^1]
 
+# What is Information?
+
+Information is data that has been organized to make sense to a particular human subject.
+
+# What is Data?
+
+Data is a stream of raw facts that represents events as a result of transaction between entities and organizations. Data is often not organized and intelligible at first glance.
+
+# Functions of an Information System
+
+The information system is at the core of processing / classifying / arranging / calculating information that comes to organizations through the organization's interaction with environment.
+
+|--------------------------Environment--------------------------|
+|----------------------------Organization-----------------------|
+|-> Input -> Processing/Classify/Arrange/Calculate -> Output -> |
+|---------------------------------------------------------------|
+
+Information systems are not just computers and softwares, it encompasses Organization, Management, Technology shaping how organizations adapt to challenges of external environment.
 
 
-
-
-
-# What is Management Information System
+# What is Management Information System?
 
 
 
