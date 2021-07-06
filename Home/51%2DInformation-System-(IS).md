@@ -95,4 +95,4 @@ Organizations have a unique culture that is dynamic yet comprising of fundamenta
 
 # References
 
-[^1]: Management Information System [?]
+[^1]:  #74 
