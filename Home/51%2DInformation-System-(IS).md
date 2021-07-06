@@ -82,8 +82,10 @@ Organizations have a unique culture that is dynamic yet comprising of fundamenta
 
 
 # What is Business Information Value Chain?
-                                                                                                                   -[Business Processes] SCM > EM > CRM > KM
--[Information Processing Activities] Data collection and Storage > Transform into Business Systems > Dissemination                                                                                                -[Firm Profitability and Strategic Position]                                                                                                                      -[Management Activities] Planning > Coordinating > Controlling > Modelling and Decision Making  
+- [Business Processes] SCM > EM > CRM > KM                                                                                                              
+- [Information Processing Activities] Data collection and Storage > Transform into Business Systems > Dissemination                                                                                                
+- [Firm Profitability and Strategic Position]                                                                                                                      
+- [Management Activities] Planning > Coordinating > Controlling > Modelling and Decision Making  
 
 ----------------------------------- Business Value ---------------------------------------------------------->
 
