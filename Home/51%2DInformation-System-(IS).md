@@ -94,5 +94,20 @@ Organizations have a unique culture that is dynamic yet comprising of fundamenta
 
 
 # References
+[^1]: laudon2007management
 
-[^1]:  #74 
+
+```bib
+@book{laudon2007management,
+  title={Management information systems: Managing the digital firm},
+  author={Laudon, Kenneth C and others},
+  year={2007},
+  publisher={Pearson Education India}
+}
+```
+
+
+
+
+
+
