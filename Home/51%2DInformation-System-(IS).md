@@ -4,6 +4,12 @@ author: Muhammad Mustafa Monowar
 datecreated: 2021-07-07
 ---
 
+# Summary
+
+An **Information System** processes data and produces information for an organization. **Data** is produced when **Organization** interacts with **Environment**, and **Management** needs data to be translated into **Information** so that better decision making, coordination and problem solving can be achieved. Information systems are not simply hardware or software, they are an set of interrelated components that encompasses across organization, management, technology. *At its core, information system takes data as input and processes / stores / distributes information as output* for management's strategic advantage. **It is to be mentioned that, what an organization can achieve is often constrained by the information systems it uses.**
+
+
+
 # What is Information System?
 
 An Information Systems is a a set of
